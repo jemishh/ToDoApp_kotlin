@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">todo</string>
+    <string name="todo">ToDo</string>
+    <string name="w_e_l_c_o_m_e">W E L C O M E</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="new_user">New User?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="s_i_g_n_u_p">S I G N U P</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="create_password">Create Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="existing_user">Existing User?</string>
+    <string name="open_calender">Click again to open calender</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="developed_by">Developed by jemish maniya</string>
+    <string name="dbname_users">users</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Log Out</string>
+    <string name="add_new_task">ADD NEW TASK</string>
+    <string name="add">ADD</string>
+    <string name="dbname_tasks">tasks</string>
+    <string name="choose_dob">Choose DOB</string>
+    <string name="your_to_dos">YOUR TO DOs</string>
+
+</resources>
